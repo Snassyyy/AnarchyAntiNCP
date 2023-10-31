@@ -70,7 +70,7 @@ public class SurvivalFly extends Check {
 
     // Other.
     /** Bunny-hop delay. */
-    private static final int   bunnyHopMax = 10;
+    private static final int   bunnyHopMax = 100;
     /** Divisor vs. last hDist for minimum slow down. */
     private static final double bunnyDivFriction = 160.0; // Rather in-air, blocks would differ by friction.
 
